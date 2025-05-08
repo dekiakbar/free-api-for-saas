@@ -1,2 +1,1 @@
-# free-api
-free-api that can be used for saa
+# LIST FREE API TESTED FOR SAAS OR PROJECTS
